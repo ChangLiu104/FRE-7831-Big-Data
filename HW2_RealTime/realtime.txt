@@ -1,0 +1,528 @@
+FB US EquityTrade:	207.779, 1000, 
+FB US Equity BID Quote:	 207.74, 200
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity BID Quote:	 207.74, 200
+FB US Equity BID Quote:	 207.74, 100
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity BID Quote:	 207.77, 200
+FB US EquityTrade:	207.77, 700, 
+FB US EquityTrade:	207.78, 1000, 
+FB US EquityTrade:	207.767, 300, 
+FB US Equity ASK Quote:	 207.79, 300
+FB US Equity BID Quote:	 207.76, 100
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US Equity BID Quote:	 207.73, 1000
+FB US Equity ASK Quote:	 207.74, 300
+FB US EquityTrade:	207.735, 100, 
+FB US Equity BID Quote:	 207.73, 900
+FB US Equity ASK Quote:	 207.74, 300
+FB US EquityTrade:	207.73, 300, 
+FB US EquityTrade:	207.73, 200, 
+FB US EquityTrade:	207.73, 1000, 
+FB US EquityTrade:	207.72, 100, 
+FB US EquityTrade:	207.72, 228, 
+FB US EquityTrade:	207.71, 200, 
+FB US EquityTrade:	207.715, 100, 
+FB US EquityTrade:	207.71, 100, 
+FB US Equity BID Quote:	 207.71, 200
+FB US Equity ASK Quote:	 207.73, 200
+FB US EquityTrade:	207.719, 100, 
+FB US EquityTrade:	207.711, 2000, 
+FB US EquityTrade:	207.72, 100, 
+FB US EquityTrade:	207.71, 100, 
+FB US EquityTrade:	207.71, 134, 
+FB US EquityTrade:	207.71, 100, 
+FB US Equity ASK Quote:	 207.73, 400
+FB US Equity BID Quote:	 207.71, 300
+FB US EquityTrade:	207.72, 100, 
+FB US EquityTrade:	207.71, 100, 
+FB US Equity ASK Quote:	 207.73, 300
+FB US Equity BID Quote:	 207.71, 200
+FB US EquityTrade:	207.727, 100, 
+FB US EquityTrade:	207.727, 200, 
+FB US EquityTrade:	207.72, 100, 
+FB US EquityTrade:	207.73, 100, 
+FB US EquityTrade:	207.73, 155, 
+FB US EquityTrade:	207.73, 100, 
+FB US EquityTrade:	207.73, 100, 
+FB US EquityTrade:	207.73, 100, 
+FB US EquityTrade:	207.73, 100, 
+FB US Equity BID Quote:	 207.72, 100
+FB US Equity ASK Quote:	 207.74, 200
+FB US EquityTrade:	207.74, 100, 
+FB US EquityTrade:	207.728, 100, 
+FB US Equity BID Quote:	 207.72, 200
+FB US EquityTrade:	207.74, 100, 
+FB US EquityTrade:	207.74, 100, 
+FB US EquityTrade:	207.74, 100, 
+FB US EquityTrade:	207.75, 100, 
+FB US Equity ASK Quote:	 207.78, 200
+FB US Equity BID Quote:	 207.74, 200
+FB US Equity ASK Quote:	 207.78, 200
+FB US Equity BID Quote:	 207.74, 200
+FB US Equity ASK Quote:	 207.78, 200
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.776, 400, 
+FB US Equity ASK Quote:	 207.78, 200
+FB US Equity BID Quote:	 207.76, 200
+FB US EquityTrade:	207.78, 100, 
+FB US Equity BID Quote:	 207.78, 100
+FB US Equity ASK Quote:	 207.81, 200
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US Equity ASK Quote:	 207.8, 100
+FB US Equity BID Quote:	 207.78, 200
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.79, 100, 
+FB US Equity BID Quote:	 207.78, 100
+FB US Equity ASK Quote:	 207.8, 200
+FB US Equity ASK Quote:	 207.8, 100
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.8, 200, 
+FB US EquityTrade:	207.8, 200, 
+FB US EquityTrade:	207.78, 150, 
+FB US Equity ASK Quote:	 207.8, 100
+FB US Equity BID Quote:	 207.78, 200
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.81, 100, 
+FB US Equity ASK Quote:	 207.81, 100
+FB US Equity BID Quote:	 207.8, 200
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.8, 200, 
+FB US EquityTrade:	207.8, 100, 
+FB US Equity BID Quote:	 207.78, 100
+FB US Equity ASK Quote:	 207.8, 300
+FB US Equity ASK Quote:	 207.8, 300
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US Equity BID Quote:	 207.78, 300
+FB US Equity ASK Quote:	 207.79, 100
+FB US EquityTrade:	207.78, 255, 
+FB US EquityTrade:	207.783, 100, 
+FB US EquityTrade:	207.78, 200, 
+FB US EquityTrade:	207.78, 191, 
+FB US EquityTrade:	207.79, 200, 
+FB US EquityTrade:	207.78, 200, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 107, 
+FB US EquityTrade:	207.78, 100, 
+FB US Equity ASK Quote:	 207.78, 200
+FB US Equity BID Quote:	 207.75, 400
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 200, 
+FB US Equity BID Quote:	 207.78, 100
+FB US Equity ASK Quote:	 207.79, 200
+FB US EquityTrade:	207.787, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US Equity ASK Quote:	 207.81, 100
+FB US Equity BID Quote:	 207.78, 600
+FB US Equity BID Quote:	 207.78, 200
+FB US Equity ASK Quote:	 207.8, 200
+FB US EquityTrade:	207.791, 200, 
+FB US EquityTrade:	207.781, 250, 
+FB US Equity BID Quote:	 207.78, 200
+FB US EquityTrade:	207.782, 200, 
+FB US Equity BID Quote:	 207.78, 300
+FB US EquityTrade:	207.78, 498, 
+FB US EquityTrade:	207.785, 100, 
+FB US Equity BID Quote:	 207.78, 200
+FB US Equity ASK Quote:	 207.79, 100
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.78, 190, 
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity BID Quote:	 207.75, 100
+FB US EquityTrade:	207.764, 249, 
+FB US EquityTrade:	207.75, 249, 
+FB US EquityTrade:	207.774, 100, 
+FB US Equity BID Quote:	 207.75, 100
+FB US Equity BID Quote:	 207.75, 100
+FB US EquityTrade:	207.79, 100, 
+FB US Equity BID Quote:	 207.75, 100
+FB US Equity BID Quote:	 207.76, 200
+FB US EquityTrade:	207.775, 750, 
+FB US Equity BID Quote:	 207.75, 200
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.775, 200, 
+FB US Equity BID Quote:	 207.77, 200
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.78, 100, 
+FB US EquityTrade:	207.77, 200, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 200, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 150, 
+FB US EquityTrade:	207.75, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 100, 
+FB US Equity BID Quote:	 207.77, 100
+FB US Equity ASK Quote:	 207.78, 200
+FB US EquityTrade:	207.77, 100, 
+FB US EquityTrade:	207.77, 109, 
+FB US EquityTrade:	207.77, 109, 
+FB US EquityTrade:	207.77, 126, 
+FB US EquityTrade:	207.765, 100, 
+FB US EquityTrade:	207.73, 100, 
+FB US EquityTrade:	207.75, 200, 
+FB US EquityTrade:	207.75, 200, 
+FB US Equity ASK Quote:	 207.76, 200
+FB US Equity BID Quote:	 207.75, 100
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.76, 100, 
+FB US EquityTrade:	207.78, 232, 
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity BID Quote:	 207.77, 200
+FB US Equity ASK Quote:	 207.79, 200
+FB US Equity BID Quote:	 207.78, 100
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.79, 100, 
+FB US EquityTrade:	207.79, 200, 
+FB US EquityTrade:	207.81, 200, 
+FB US Equity ASK Quote:	 207.83, 200
+FB US Equity BID Quote:	 207.79, 300
+FB US EquityTrade:	207.83, 100, 
+FB US Equity ASK Quote:	 207.85, 100
+FB US Equity BID Quote:	 207.83, 300
+FB US EquityTrade:	207.84, 100, 
+FB US EquityTrade:	207.835, 100, 
+FB US EquityTrade:	207.82, 100, 
+FB US EquityTrade:	207.85, 122, 
+FB US EquityTrade:	207.86, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.85, 200, 
+FB US EquityTrade:	207.85, 100, 
+FB US EquityTrade:	207.85, 100, 
+FB US EquityTrade:	207.86, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.85, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.85, 100, 
+FB US EquityTrade:	207.85, 100, 
+FB US EquityTrade:	207.85, 100, 
+FB US Equity BID Quote:	 207.84, 100
+FB US Equity ASK Quote:	 207.86, 100
+FB US EquityTrade:	207.85, 288, 
+FB US Equity ASK Quote:	 207.86, 100
+FB US Equity ASK Quote:	 207.86, 100
+FB US Equity BID Quote:	 207.81, 200
+FB US Equity ASK Quote:	 207.85, 300
+FB US Equity BID Quote:	 207.8, 100
+FB US Equity ASK Quote:	 207.85, 400
+FB US EquityTrade:	207.85, 100, 
+FB US Equity BID Quote:	 207.81, 200
+FB US Equity ASK Quote:	 207.85, 400
+FB US EquityTrade:	207.819, 200, 
+FB US EquityTrade:	207.83, 125, 
+FB US Equity ASK Quote:	 207.81, 100
+FB US Equity BID Quote:	 207.8, 100
+FB US EquityTrade:	207.807, 200, 
+FB US EquityTrade:	207.805, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US Equity BID Quote:	 207.8, 100
+FB US Equity ASK Quote:	 207.81, 100
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 100, 
+FB US EquityTrade:	207.8, 200, 
+FB US Equity BID Quote:	 207.8, 100
+FB US Equity ASK Quote:	 207.8, 100
+FB US EquityTrade:	207.81, 177, 
+FB US Equity ASK Quote:	 207.84, 100
+FB US Equity BID Quote:	 207.82, 500
+FB US Equity BID Quote:	 207.81, 900
+FB US Equity BID Quote:	 207.82, 400
+FB US EquityTrade:	207.812, 100, 
+FB US Equity BID Quote:	 207.81, 200
+FB US Equity ASK Quote:	 207.84, 200
+FB US Equity BID Quote:	 207.81, 100
+FB US Equity BID Quote:	 207.81, 100
+FB US Equity ASK Quote:	 207.83, 300
+FB US Equity BID Quote:	 207.81, 200
+FB US Equity BID Quote:	 207.82, 200
+FB US EquityTrade:	207.83, 100, 
+FB US EquityTrade:	207.83, 100, 
+FB US EquityTrade:	207.83, 100, 
+FB US Equity ASK Quote:	 207.86, 100
+FB US Equity BID Quote:	 207.85, 200
+FB US EquityTrade:	207.86, 100, 
+FB US Equity BID Quote:	 207.88, 300
+FB US Equity ASK Quote:	 207.91, 100
+FB US Equity ASK Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.87, 200
+FB US Equity BID Quote:	 207.88, 300
+FB US Equity ASK Quote:	 207.91, 100
+FB US Equity BID Quote:	 207.88, 300
+FB US Equity ASK Quote:	 207.91, 100
+FB US Equity BID Quote:	 207.87, 300
+FB US Equity ASK Quote:	 207.92, 200
+FB US EquityTrade:	207.915, 661, 
+FB US Equity ASK Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.89, 400
+FB US EquityTrade:	207.899, 160, 
+FB US EquityTrade:	207.897, 149, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.905, 200, 
+FB US EquityTrade:	207.92, 600, 
+FB US Equity ASK Quote:	 207.92, 100
+FB US Equity BID Quote:	 207.89, 300
+FB US EquityTrade:	207.905, 100, 
+FB US Equity ASK Quote:	 207.92, 100
+FB US Equity BID Quote:	 207.9, 200
+FB US EquityTrade:	207.912, 100, 
+FB US EquityTrade:	207.935, 100, 
+FB US Equity BID Quote:	 207.92, 500
+FB US Equity ASK Quote:	 207.95, 200
+FB US Equity BID Quote:	 207.92, 200
+FB US Equity ASK Quote:	 207.97, 300
+FB US Equity BID Quote:	 207.94, 300
+FB US Equity ASK Quote:	 207.98, 200
+FB US EquityTrade:	207.94, 300, 
+FB US Equity ASK Quote:	 207.95, 100
+FB US Equity BID Quote:	 207.93, 400
+FB US EquityTrade:	207.94, 150, 
+FB US Equity BID Quote:	 207.93, 100
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.952, 650, 
+FB US Equity ASK Quote:	 207.99, 1000
+FB US Equity BID Quote:	 207.95, 300
+FB US EquityTrade:	207.96, 100, 
+FB US EquityTrade:	207.96, 100, 
+FB US EquityTrade:	207.965, 300, 
+FB US EquityTrade:	207.95, 100, 
+FB US Equity ASK Quote:	 207.98, 200
+FB US Equity BID Quote:	 207.94, 200
+FB US EquityTrade:	207.955, 373, 
+FB US EquityTrade:	207.966, 600, 
+FB US Equity BID Quote:	 207.94, 100
+FB US Equity ASK Quote:	 207.96, 200
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.94, 100, 
+FB US Equity BID Quote:	 207.92, 200
+FB US EquityTrade:	207.94, 100, 
+FB US EquityTrade:	207.935, 200, 
+FB US EquityTrade:	207.92, 200, 
+FB US EquityTrade:	207.934, 500, 
+FB US Equity ASK Quote:	 207.95, 200
+FB US Equity BID Quote:	 207.92, 100
+FB US EquityTrade:	207.92, 100, 
+FB US Equity BID Quote:	 207.9, 200
+FB US Equity ASK Quote:	 207.93, 200
+FB US Equity ASK Quote:	 207.93, 300
+FB US EquityTrade:	207.93, 126, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.93, 200, 
+FB US EquityTrade:	207.93, 100, 
+FB US Equity ASK Quote:	 207.93, 200
+FB US Equity BID Quote:	 207.92, 200
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.925, 200, 
+FB US EquityTrade:	207.92, 200, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 169, 
+FB US EquityTrade:	207.92, 200, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 129, 
+FB US EquityTrade:	207.92, 295, 
+FB US Equity ASK Quote:	 207.93, 300
+FB US Equity BID Quote:	 207.9, 200
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.913, 100, 
+FB US EquityTrade:	207.909, 573, 
+FB US EquityTrade:	207.9, 573, 
+FB US EquityTrade:	207.923, 200, 
+FB US Equity ASK Quote:	 207.93, 100
+FB US Equity BID Quote:	 207.9, 200
+FB US EquityTrade:	207.93, 198, 
+FB US EquityTrade:	207.93, 199, 
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.93, 100, 
+FB US Equity ASK Quote:	 207.93, 200
+FB US Equity BID Quote:	 207.9, 200
+FB US EquityTrade:	207.903, 1250, 
+FB US Equity BID Quote:	 207.9, 200
+FB US Equity BID Quote:	 207.9, 300
+FB US Equity ASK Quote:	 207.93, 200
+FB US Equity BID Quote:	 207.9, 300
+FB US Equity BID Quote:	 207.9, 600
+FB US EquityTrade:	207.915, 300, 
+FB US Equity BID Quote:	 207.9, 300
+FB US EquityTrade:	207.915, 100, 
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.92, 500, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 200, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.89, 100, 
+FB US EquityTrade:	207.87, 214, 
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.87, 100, 
+FB US Equity ASK Quote:	 207.9, 200
+FB US Equity BID Quote:	 207.86, 500
+FB US EquityTrade:	207.879, 1500, 
+FB US Equity ASK Quote:	 207.87, 200
+FB US Equity BID Quote:	 207.84, 300
+FB US EquityTrade:	207.85, 200, 
+FB US Equity BID Quote:	 207.83, 200
+FB US Equity BID Quote:	 207.83, 200
+FB US EquityTrade:	207.85, 100, 
+FB US Equity BID Quote:	 207.83, 400
+FB US EquityTrade:	207.87, 100, 
+FB US EquityTrade:	207.88, 330, 
+FB US Equity ASK Quote:	 207.9, 800
+FB US Equity BID Quote:	 207.86, 300
+FB US Equity BID Quote:	 207.88, 600
+FB US Equity BID Quote:	 207.89, 200
+FB US EquityTrade:	207.9, 215, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 110, 
+FB US Equity ASK Quote:	 207.93, 300
+FB US Equity BID Quote:	 207.9, 600
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.93, 100, 
+FB US EquityTrade:	207.93, 200, 
+FB US EquityTrade:	207.95, 290, 
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.95, 110, 
+FB US EquityTrade:	207.95, 200, 
+FB US Equity ASK Quote:	 207.97, 300
+FB US Equity BID Quote:	 207.94, 200
+FB US Equity ASK Quote:	 207.96, 200
+FB US Equity BID Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.92, 300
+FB US Equity BID Quote:	 207.92, 200
+FB US Equity ASK Quote:	 207.94, 200
+FB US Equity BID Quote:	 207.9, 300
+FB US EquityTrade:	207.92, 750, 
+FB US Equity BID Quote:	 207.9, 200
+FB US EquityTrade:	207.925, 100, 
+FB US EquityTrade:	207.925, 100, 
+FB US Equity ASK Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.9, 100
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.88, 100, 
+FB US Equity ASK Quote:	 207.91, 200
+FB US Equity BID Quote:	 207.88, 700
+FB US EquityTrade:	207.903, 100, 
+FB US Equity BID Quote:	 207.88, 700
+FB US EquityTrade:	207.895, 100, 
+FB US EquityTrade:	207.88, 117, 
+FB US EquityTrade:	207.88, 249, 
+FB US EquityTrade:	207.88, 100, 
+FB US EquityTrade:	207.88, 129, 
+FB US EquityTrade:	207.88, 147, 
+FB US EquityTrade:	207.89, 100, 
+FB US Equity BID Quote:	 207.87, 200
+FB US Equity ASK Quote:	 207.9, 100
+FB US EquityTrade:	207.878, 400, 
+FB US EquityTrade:	207.9, 100, 
+FB US EquityTrade:	207.9, 190, 
+FB US Equity ASK Quote:	 207.91, 100
+FB US Equity BID Quote:	 207.88, 400
+FB US Equity BID Quote:	 207.89, 200
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.92, 183, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US Equity ASK Quote:	 207.92, 100
+FB US Equity BID Quote:	 207.91, 200
+FB US EquityTrade:	207.91, 100, 
+FB US Equity BID Quote:	 207.89, 200
+FB US Equity ASK Quote:	 207.92, 100
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US Equity ASK Quote:	 207.92, 100
+FB US Equity BID Quote:	 207.89, 200
+FB US Equity ASK Quote:	 207.91, 100
+FB US Equity BID Quote:	 207.89, 100
+FB US EquityTrade:	207.91, 100, 
+FB US Equity ASK Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.89, 200
+FB US EquityTrade:	207.89, 199, 
+FB US EquityTrade:	207.87, 144, 
+FB US Equity BID Quote:	 207.87, 200
+FB US Equity ASK Quote:	 207.91, 200
+FB US Equity ASK Quote:	 207.92, 200
+FB US Equity BID Quote:	 207.89, 100
+FB US EquityTrade:	207.905, 150, 
+FB US EquityTrade:	207.911, 103, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.919, 225, 
+FB US Equity BID Quote:	 207.91, 200
+FB US Equity ASK Quote:	 207.92, 100
+FB US EquityTrade:	207.91, 189, 
+FB US EquityTrade:	207.915, 189, 
+FB US Equity BID Quote:	 207.9, 600
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.915, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.91, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US EquityTrade:	207.92, 100, 
+FB US Equity ASK Quote:	 207.95, 100
+FB US Equity BID Quote:	 207.93, 200
+FB US EquityTrade:	207.96, 100, 
+FB US EquityTrade:	207.97, 100, 
+FB US EquityTrade:	207.96, 400, 
+FB US Equity BID Quote:	 207.95, 200
+FB US Equity ASK Quote:	 207.97, 100
+FB US EquityTrade:	207.96, 300, 
+FB US EquityTrade:	207.95, 700, 
+FB US EquityTrade:	207.955, 100, 
+FB US EquityTrade:	207.95, 100, 
+FB US EquityTrade:	207.95, 100, 
+FB US Equity ASK Quote:	 207.95, 100
+FB US Equity BID Quote:	 207.93, 200
+FB US Equity ASK Quote:	 207.96, 100
+FB US Equity BID Quote:	 207.94, 100

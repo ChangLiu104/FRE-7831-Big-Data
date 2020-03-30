@@ -1,0 +1,459 @@
+SessionConnectionUp = {
+    server = "localhost:8194"
+    encryptionStatus = "Clear"
+}
+
+SessionStarted = {
+    initialEndpoints[] = {
+        initialEndpoints = {
+            address = "localhost:8194"
+        }
+    }
+}
+
+ServiceOpened = {
+    serviceName = "//blp/refdata"
+}
+
+HistoricalDataResponse = {
+    securityData = {
+        security = "IBM US Equity"
+        eidData[] = {
+        }
+        sequenceNumber = 0
+        fieldExceptions[] = {
+        }
+        fieldData[] = {
+            fieldData = {
+                date = 2020-01-02
+                PX_LAST = 135.420000
+                OPEN = 135.000000
+                HIGH = 135.920000
+                LOW = 134.770100
+                VOLUME = 3148833.000000
+            }
+            fieldData = {
+                date = 2020-01-03
+                PX_LAST = 134.340000
+                OPEN = 133.570000
+                HIGH = 134.860000
+                LOW = 133.560000
+                VOLUME = 2373676.000000
+            }
+            fieldData = {
+                date = 2020-01-06
+                PX_LAST = 134.100000
+                OPEN = 133.420000
+                HIGH = 134.240000
+                LOW = 133.200000
+                VOLUME = 2426305.000000
+            }
+            fieldData = {
+                date = 2020-01-07
+                PX_LAST = 134.190000
+                OPEN = 133.690000
+                HIGH = 134.960000
+                LOW = 133.400000
+                VOLUME = 3275968.000000
+            }
+            fieldData = {
+                date = 2020-01-08
+                PX_LAST = 135.310000
+                OPEN = 134.510000
+                HIGH = 135.860000
+                LOW = 133.920000
+                VOLUME = 4346140.000000
+            }
+            fieldData = {
+                date = 2020-01-09
+                PX_LAST = 136.740000
+                OPEN = 135.740000
+                HIGH = 136.790000
+                LOW = 135.310000
+                VOLUME = 3732830.000000
+            }
+            fieldData = {
+                date = 2020-01-10
+                PX_LAST = 136.690000
+                OPEN = 137.000000
+                HIGH = 137.870000
+                LOW = 136.310000
+                VOLUME = 3255641.000000
+            }
+            fieldData = {
+                date = 2020-01-13
+                PX_LAST = 136.600000
+                OPEN = 135.480000
+                HIGH = 136.640000
+                LOW = 135.070000
+                VOLUME = 3531572.000000
+            }
+            fieldData = {
+                date = 2020-01-14
+                PX_LAST = 135.820000
+                OPEN = 136.280000
+                HIGH = 137.139000
+                LOW = 135.550000
+                VOLUME = 3683458.000000
+            }
+            fieldData = {
+                date = 2020-01-15
+                PX_LAST = 136.620000
+                OPEN = 136.000000
+                HIGH = 138.055000
+                LOW = 135.710000
+                VOLUME = 4045952.000000
+            }
+            fieldData = {
+                date = 2020-01-16
+                PX_LAST = 137.980000
+                OPEN = 137.320000
+                HIGH = 138.190000
+                LOW = 137.010000
+                VOLUME = 4320911.000000
+            }
+            fieldData = {
+                date = 2020-01-17
+                PX_LAST = 138.310000
+                OPEN = 136.540000
+                HIGH = 138.330000
+                LOW = 136.160000
+                VOLUME = 5623336.000000
+            }
+            fieldData = {
+                date = 2020-01-21
+                PX_LAST = 139.170000
+                OPEN = 137.810000
+                HIGH = 139.350000
+                LOW = 137.600000
+                VOLUME = 7244079.000000
+            }
+            fieldData = {
+                date = 2020-01-22
+                PX_LAST = 143.890000
+                OPEN = 143.320000
+                HIGH = 145.790000
+                LOW = 142.550000
+                VOLUME = 16470431.000000
+            }
+            fieldData = {
+                date = 2020-01-23
+                PX_LAST = 142.870000
+                OPEN = 144.200000
+                HIGH = 144.409700
+                LOW = 142.150000
+                VOLUME = 5657790.000000
+            }
+            fieldData = {
+                date = 2020-01-24
+                PX_LAST = 140.560000
+                OPEN = 143.390000
+                HIGH = 143.920000
+                LOW = 140.460000
+                VOLUME = 5580189.000000
+            }
+            fieldData = {
+                date = 2020-01-27
+                PX_LAST = 138.620000
+                OPEN = 138.500000
+                HIGH = 140.069000
+                LOW = 138.100000
+                VOLUME = 4166562.000000
+            }
+            fieldData = {
+                date = 2020-01-28
+                PX_LAST = 139.550000
+                OPEN = 139.500000
+                HIGH = 140.470000
+                LOW = 138.750000
+                VOLUME = 3451557.000000
+            }
+            fieldData = {
+                date = 2020-01-29
+                PX_LAST = 137.690000
+                OPEN = 139.170000
+                HIGH = 139.580000
+                LOW = 137.595000
+                VOLUME = 3054714.000000
+            }
+            fieldData = {
+                date = 2020-01-30
+                PX_LAST = 136.770000
+                OPEN = 136.760000
+                HIGH = 136.970000
+                LOW = 134.970000
+                VOLUME = 5057906.000000
+            }
+            fieldData = {
+                date = 2020-01-31
+                PX_LAST = 143.730000
+                OPEN = 142.900000
+                HIGH = 144.050000
+                LOW = 140.790000
+                VOLUME = 18994560.000000
+            }
+            fieldData = {
+                date = 2020-02-03
+                PX_LAST = 146.270000
+                OPEN = 144.250000
+                HIGH = 147.280000
+                LOW = 143.900000
+                VOLUME = 8887502.000000
+            }
+            fieldData = {
+                date = 2020-02-04
+                PX_LAST = 149.110000
+                OPEN = 147.780000
+                HIGH = 149.380000
+                LOW = 146.880000
+                VOLUME = 5620966.000000
+            }
+            fieldData = {
+                date = 2020-02-05
+                PX_LAST = 156.330000
+                OPEN = 150.210000
+                HIGH = 157.440000
+                LOW = 150.150000
+                VOLUME = 14386823.000000
+            }
+            fieldData = {
+                date = 2020-02-06
+                PX_LAST = 156.760000
+                OPEN = 156.820000
+                HIGH = 158.750000
+                LOW = 155.420000
+                VOLUME = 8400545.000000
+            }
+            fieldData = {
+                date = 2020-02-07
+                PX_LAST = 153.410000
+                OPEN = 154.550000
+                HIGH = 155.540000
+                LOW = 152.920000
+                VOLUME = 6423429.000000
+            }
+        }
+    }
+}
+
+HistoricalDataResponse = {
+    securityData = {
+        security = "MSFT US Equity"
+        eidData[] = {
+        }
+        sequenceNumber = 1
+        fieldExceptions[] = {
+        }
+        fieldData[] = {
+            fieldData = {
+                date = 2020-01-02
+                PX_LAST = 160.620000
+                OPEN = 158.780000
+                HIGH = 160.730000
+                LOW = 158.330000
+                VOLUME = 22634546.000000
+            }
+            fieldData = {
+                date = 2020-01-03
+                PX_LAST = 158.620000
+                OPEN = 158.320000
+                HIGH = 159.945000
+                LOW = 158.060000
+                VOLUME = 21121681.000000
+            }
+            fieldData = {
+                date = 2020-01-06
+                PX_LAST = 159.030000
+                OPEN = 157.080000
+                HIGH = 159.100000
+                LOW = 156.510000
+                VOLUME = 20826702.000000
+            }
+            fieldData = {
+                date = 2020-01-07
+                PX_LAST = 157.580000
+                OPEN = 159.320000
+                HIGH = 159.670000
+                LOW = 157.320000
+                VOLUME = 21881740.000000
+            }
+            fieldData = {
+                date = 2020-01-08
+                PX_LAST = 160.090000
+                OPEN = 158.930000
+                HIGH = 160.800000
+                LOW = 157.949100
+                VOLUME = 27762026.000000
+            }
+            fieldData = {
+                date = 2020-01-09
+                PX_LAST = 162.090000
+                OPEN = 161.835000
+                HIGH = 162.215000
+                LOW = 161.030000
+                VOLUME = 21399951.000000
+            }
+            fieldData = {
+                date = 2020-01-10
+                PX_LAST = 161.340000
+                OPEN = 162.823500
+                HIGH = 163.220000
+                LOW = 161.180000
+                VOLUME = 20733946.000000
+            }
+            fieldData = {
+                date = 2020-01-13
+                PX_LAST = 163.280000
+                OPEN = 161.760000
+                HIGH = 163.310000
+                LOW = 161.260000
+                VOLUME = 21637007.000000
+            }
+            fieldData = {
+                date = 2020-01-14
+                PX_LAST = 162.130000
+                OPEN = 163.390000
+                HIGH = 163.600000
+                LOW = 161.720000
+                VOLUME = 23500783.000000
+            }
+            fieldData = {
+                date = 2020-01-15
+                PX_LAST = 163.180000
+                OPEN = 162.620000
+                HIGH = 163.940000
+                LOW = 162.570000
+                VOLUME = 21417871.000000
+            }
+            fieldData = {
+                date = 2020-01-16
+                PX_LAST = 166.170000
+                OPEN = 164.350000
+                HIGH = 166.240000
+                LOW = 164.030000
+                VOLUME = 23865360.000000
+            }
+            fieldData = {
+                date = 2020-01-17
+                PX_LAST = 167.100000
+                OPEN = 167.420000
+                HIGH = 167.467500
+                LOW = 165.430000
+                VOLUME = 34371659.000000
+            }
+            fieldData = {
+                date = 2020-01-21
+                PX_LAST = 166.500000
+                OPEN = 166.680000
+                HIGH = 168.190000
+                LOW = 166.430000
+                VOLUME = 29517191.000000
+            }
+            fieldData = {
+                date = 2020-01-22
+                PX_LAST = 165.700000
+                OPEN = 167.400000
+                HIGH = 167.490000
+                LOW = 165.680000
+                VOLUME = 24138777.000000
+            }
+            fieldData = {
+                date = 2020-01-23
+                PX_LAST = 166.720000
+                OPEN = 166.190000
+                HIGH = 166.800000
+                LOW = 165.270000
+                VOLUME = 19680766.000000
+            }
+            fieldData = {
+                date = 2020-01-24
+                PX_LAST = 165.040000
+                OPEN = 167.510000
+                HIGH = 167.530000
+                LOW = 164.450000
+                VOLUME = 24918117.000000
+            }
+            fieldData = {
+                date = 2020-01-27
+                PX_LAST = 162.280000
+                OPEN = 161.150000
+                HIGH = 163.375000
+                LOW = 160.200000
+                VOLUME = 32078067.000000
+            }
+            fieldData = {
+                date = 2020-01-28
+                PX_LAST = 165.460000
+                OPEN = 163.780000
+                HIGH = 165.755000
+                LOW = 163.073000
+                VOLUME = 24899940.000000
+            }
+            fieldData = {
+                date = 2020-01-29
+                PX_LAST = 168.040000
+                OPEN = 167.840000
+                HIGH = 168.750000
+                LOW = 165.690000
+                VOLUME = 35127771.000000
+            }
+            fieldData = {
+                date = 2020-01-30
+                PX_LAST = 172.780000
+                OPEN = 174.050000
+                HIGH = 174.050000
+                LOW = 170.790000
+                VOLUME = 51597470.000000
+            }
+            fieldData = {
+                date = 2020-01-31
+                PX_LAST = 170.230000
+                OPEN = 172.210000
+                HIGH = 172.400000
+                LOW = 169.580000
+                VOLUME = 36142690.000000
+            }
+            fieldData = {
+                date = 2020-02-03
+                PX_LAST = 174.380000
+                OPEN = 170.430000
+                HIGH = 174.500000
+                LOW = 170.400000
+                VOLUME = 30149052.000000
+            }
+            fieldData = {
+                date = 2020-02-04
+                PX_LAST = 180.120000
+                OPEN = 177.140000
+                HIGH = 180.640000
+                LOW = 176.310000
+                VOLUME = 36433339.000000
+            }
+            fieldData = {
+                date = 2020-02-05
+                PX_LAST = 179.900000
+                OPEN = 184.030000
+                HIGH = 184.200000
+                LOW = 178.410100
+                VOLUME = 39186324.000000
+            }
+            fieldData = {
+                date = 2020-02-06
+                PX_LAST = 183.630000
+                OPEN = 180.970000
+                HIGH = 183.819900
+                LOW = 180.059000
+                VOLUME = 27751381.000000
+            }
+            fieldData = {
+                date = 2020-02-07
+                PX_LAST = 183.890000
+                OPEN = 182.845000
+                HIGH = 185.630000
+                LOW = 182.480000
+                VOLUME = 33529074.000000
+            }
+        }
+    }
+}
+
